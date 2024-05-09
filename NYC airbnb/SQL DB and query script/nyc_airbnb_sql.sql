@@ -5,26 +5,69 @@ CREATE DATABASE nyc_airbnb;
 USE nyc_airbnb;
 
 CREATE TABLE original_data(
-	id,
-	name,	
-	host_id,	
-	host_name,	
-	neighbourhood_group,	
-	neighbourhood,	
-	latitude,	
-	longitude,	
-	room_type,	
-	price,	
-	minimum_nights,	
-	number_of_reviews,	
-	last_review	reviews_per_month,	
-	calculated_host_listings_count,	
-	availability_365
+	id INT PRIMARY KEY,
+	name VARCHAR(50),	
+	host_id INT,	
+	host_name VARCHAR(50),	
+	neighbourhood_group VARCHAR(50),	
+	neighbourhood VARCHAR(50),	
+	latitude DECIMAL(8,5),	
+	longitude DECIMAL(8,5),	
+	room_type VARCHAR(50),	
+	price smallmoney,	
+	minimum_nights tinyint,	
+	number_of_reviews smallint,	
+	last_review datetime,
+	reviews_per_month decimal,	
+	calculated_host_listings_count tinyint,	
+	availability_365 smallint
+);
 
-)
+-- less attributes that original table with no null values
+CREATE TABLE cleaned_data(
+	id INT,
+	name VARCHAR(50),	
+	host_id INT,	
+	host_name VARCHAR(50),	
+	neighbourhood_group VARCHAR(50),	
+	neighbourhood VARCHAR(50),	
+	room_type VARCHAR(50),	
+	price smallmoney,	
+	number_of_reviews smallint,	
+	last_review datetime,
+	reviews_per_month decimal,	
+	calculated_host_listings_count tinyint,	
+	availability_365 smallint,
+	FOREIGN KEY (id) REFERENCES original_data(id)
+);
+
+
+DROP TABLE original_data;
 
 
 
+-- INSERT STATEMENTS for original data and cleaned data
+BULK INSERT original_data
+FROM 'C:\Users\adwal\OneDrive\Desktop\Professional\Projects\Python_SQL_+\Python_SQL_App\NYC airbnb\data\AB_NYC_2019.csv' -- File path of data
+WITH (
+	FIELDTERMINATOR = ',',
+	ROWTERMINATOR = '\n',
+	FIRSTROW = 2,
+	KEEPNULLS,
+	ERRORFILE = 'C:\Users\adwal\OneDrive\Desktop\Professional\Projects\Python_SQL_+\Python_SQL_App\NYC airbnb\SQL DB and query script\error_log.txt',
+	TABLOCK
+);
+
+BULK INSERT cleaned_data
+FROM 'C:\Users\adwal\OneDrive\Desktop\Professional\Projects\Python_SQL_+\Python_SQL_App\NYC airbnb\data\AB_NYC_2019.csv' -- File path of data
+WITH (
+	FIELDTERMINATOR = ',',
+	ROWTERMINATOR = '\n',
+	FIRSTROW = 2,
+	KEEPNULLS,
+	ERRORFILE = 'C:\Users\adwal\OneDrive\Desktop\Professional\Projects\Python_SQL_+\Python_SQL_App\NYC airbnb\SQL DB and query script\error_log1.txt',
+	TABLOCK
+);
 
 -- Info on hosts and their overall performance. 
 -- Triggers, Stored Procedures and Transactions will be needed for table

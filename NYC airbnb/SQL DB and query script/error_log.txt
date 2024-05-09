@@ -1,0 +1,11 @@
+5803,"Lovely Room 1, Garden, Best Area, Legal rental",9744,Laurie,Brooklyn,South Slope,40.66829,-73.98779,Private room,89,4,167,2019-06-24,1.34,3,314
+8490,"MAISON DES SIRENES1,bohemian apartment",25183,Nathalie,Brooklyn,Bedford-Stuyvesant,40.68371,-73.94028,Entire home/apt,120,2,88,2019-06-19,0.73,2,233
+9518,"SPACIOUS, LOVELY FURNISHED MANHATTAN BEDROOM",31374,Shon,Manhattan,Inwood,40.86482,-73.92106,Private room,44,3,108,2019-06-15,1.11,3,311
+10962,"Lovely room 2 & garden; Best area, Legal rental",9744,Laurie,Brooklyn,South Slope,40.66869,-73.9878,Private room,89,4,168,2019-06-21,1.41,3,340
+12937,"1 Stop fr. Manhattan! Private Suite,Landmark Block",50124,Orestes,Queens,Long Island City,40.74771,-73.9474,Private room,130,3,248,2019-07-01,2.25,1,215
+14991,"Great Location, Manhattan Bedroom!",59023,Bianca,Manhattan,Lower East Side,40.72004,-73.99104,Private room,110,5,19,2019-05-18,0.17,1,301
+15385,"Very, very cozy place",60252,Cristina,Brooklyn,Williamsburg,40.71185,-73.96204,Private room,80,2,42,2019-06-30,0.38,1,263
+16580,"Sunny, Modern room in East Village!",64442,Reka,Manhattan,East Village,40.72649,-73.97904,Private room,80,1,338,2019-07-01,4.72,2,72
+17693,"HARLEM, NEW YORK WELCOMES YOU!!",68428,Tye And Etienne,Manhattan,Washington Heights,40.83139,-73.94095,Private room,65,2,49,2019-06-18,1.60,2,336
+19282,"Sunny, Spacious Top Floor Haven",73469,Gaia,Brooklyn,Flatbush,40.65401,-73.96323,Entire home/apt,130,6,16,2019-06-15,0.15,1,38
+20755,"Large Parlor Room, Landmark Home 1 block to PRATT",51038,Erica,Brooklyn,Clinton Hill,40.68634,-73.966,Private room,98,7,16,2019-05-31,0.20,6,185
