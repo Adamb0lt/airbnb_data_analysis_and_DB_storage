@@ -1,11 +1,11 @@
-5803,"Lovely Room 1, Garden, Best Area, Legal rental",9744,Laurie,Brooklyn,South Slope,40.66829,-73.98779,Private room,89,4,167,2019-06-24,1.34,3,314
-8490,"MAISON DES SIRENES1,bohemian apartment",25183,Nathalie,Brooklyn,Bedford-Stuyvesant,40.68371,-73.94028,Entire home/apt,120,2,88,2019-06-19,0.73,2,233
-9518,"SPACIOUS, LOVELY FURNISHED MANHATTAN BEDROOM",31374,Shon,Manhattan,Inwood,40.86482,-73.92106,Private room,44,3,108,2019-06-15,1.11,3,311
-10962,"Lovely room 2 & garden; Best area, Legal rental",9744,Laurie,Brooklyn,South Slope,40.66869,-73.9878,Private room,89,4,168,2019-06-21,1.41,3,340
-12937,"1 Stop fr. Manhattan! Private Suite,Landmark Block",50124,Orestes,Queens,Long Island City,40.74771,-73.9474,Private room,130,3,248,2019-07-01,2.25,1,215
-14991,"Great Location, Manhattan Bedroom!",59023,Bianca,Manhattan,Lower East Side,40.72004,-73.99104,Private room,110,5,19,2019-05-18,0.17,1,301
-15385,"Very, very cozy place",60252,Cristina,Brooklyn,Williamsburg,40.71185,-73.96204,Private room,80,2,42,2019-06-30,0.38,1,263
-16580,"Sunny, Modern room in East Village!",64442,Reka,Manhattan,East Village,40.72649,-73.97904,Private room,80,1,338,2019-07-01,4.72,2,72
-17693,"HARLEM, NEW YORK WELCOMES YOU!!",68428,Tye And Etienne,Manhattan,Washington Heights,40.83139,-73.94095,Private room,65,2,49,2019-06-18,1.60,2,336
-19282,"Sunny, Spacious Top Floor Haven",73469,Gaia,Brooklyn,Flatbush,40.65401,-73.96323,Entire home/apt,130,6,16,2019-06-15,0.15,1,38
-20755,"Large Parlor Room, Landmark Home 1 block to PRATT",51038,Erica,Brooklyn,Clinton Hill,40.68634,-73.966,Private room,98,7,16,2019-05-31,0.20,6,185
+16851792,NYで人気の街ﾌﾞﾙｯｸﾘﾝﾊﾟｰｸｽﾛｰﾌﾟで､暮らしてみませんか｡,8899812,Fumiko,Brooklyn,South Slope,40.66411,-73.98267,Private room,65,7,2,2017-10-23,0.09,1,173
+19482416,緑が多く安全なﾌﾞﾙｯｸﾘﾝﾊﾟｰｸｽﾛｰﾌﾟの庭付き貸切ｱﾊﾟｰﾄ,83171661,Yuichi,Brooklyn,Park Slope,40.6688,-73.98527,Entire home/apt,105,6,0,,,3,0
+20167771,【ｱｸｾｽ抜群】空港10分･ﾏﾝﾊｯﾀﾝ10分!駅徒歩5分の好立地なお部屋です,143534216,Hiroko,Queens,Elmhurst,40.7466,-73.88812,Private room,80,2,8,2017-10-14,0.35,1,0
+20561751,阳光民宿 单房干净舒适｡“和缘国旅”了解更多旅游､民宿 (Website hidden by Airbnb),105074140,Emmy,Queens,Flushing,40.75472,-73.80417,Private room,38,1,66,2019-02-12,3.50,4,0
+20661572,The printing studio bedroom with garden in Bedstuy  !!Brooklyn. Historic neighborhood close to everything ! Full kitchen bathroom BBQ and porch at your disposal. Learn to print !!,29093058,Joann,Brooklyn,Bedford-Stuyvesant,40.69366,-73.93794,Private room,140,1,0,,,2,173
+21981036,Comfortable studio duplex with a Queen size Casper mattress. A 15-minute walk to Union Square and a two-block walk to the subway. Beautiful light in the morning.,75664810,Leena,Manhattan,Gramercy,40.73878,-73.9839,Entire home/apt,100,2,4,2019-01-15,0.32,1,0
+25679492,Luxury house 皇后区豪华园林式独立别墅适合家庭出游理想住宿自由畅享私家空间,16507770,Jinfei,Queens,Briarwood,40.71016,-73.81118,Private room,60,2,9,2019-05-27,0.74,3,171
+30769015,Heart of Bedford Stuyvesant.  Next to subway.   Full floor in brown stone.  Great neighborhood.   20 minutes to downtown Manhattan.   Best place ever.,95915902,Sam,Brooklyn,Bedford-Stuyvesant,40.68883,-73.9525,Entire home/apt,100,2,5,2019-01-06,0.75,1,0
+35269107,2部屋でのｼｪｱ 10畳 駅から徒歩3分 ﾌﾞﾙｯｸﾘﾝの大人気ｴﾘｱ:ｳｨﾘｱﾑｽﾞﾊﾞｰｸﾞから3駅,19303369,Hiroki,Brooklyn,Bedford-Stuyvesant,40.68833,-73.95055,Private room,28,30,0,,,37,54
+35269147,2部屋でのｼｪｱ ﾌﾞﾙｯｸﾘﾝの大人気ｴﾘｱのｳｨﾘｱﾑｽﾞﾊﾞｰｸﾞから3駅 駅から徒歩3分の好立地 ,19303369,Hiroki,Brooklyn,Bedford-Stuyvesant,40.68787,-73.94973,Private room,33,29,0,,,37,0
+35717406,"ﾏﾝﾊｯﾀﾝ､駅から徒歩4分でどこに行くのにも便利な場所!女性の方希望,ｷﾚｲなお部屋｡",63513465,Mika,Manhattan,East Harlem,40.80347,-73.93522,Private room,70,1,0,,,1,314

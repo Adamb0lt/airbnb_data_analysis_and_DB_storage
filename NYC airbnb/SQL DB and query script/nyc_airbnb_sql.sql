@@ -4,46 +4,29 @@ CREATE DATABASE nyc_airbnb;
 -- Use Database
 USE nyc_airbnb;
 
+
 CREATE TABLE original_data(
 	id INT PRIMARY KEY,
-	name VARCHAR(50),	
-	host_id INT,	
-	host_name VARCHAR(50),	
-	neighbourhood_group VARCHAR(50),	
-	neighbourhood VARCHAR(50),	
-	latitude DECIMAL(8,5),	
-	longitude DECIMAL(8,5),	
-	room_type VARCHAR(50),	
-	price smallmoney,	
-	minimum_nights tinyint,	
-	number_of_reviews smallint,	
-	last_review datetime,
-	reviews_per_month decimal,	
-	calculated_host_listings_count tinyint,	
-	availability_365 smallint
+	[name] VARCHAR(100),	
+	[host_id] NVARCHAR(MAX),	
+	[host_name] NVARCHAR(MAX),	
+	neighbourhood_group NVARCHAR(MAX),	
+	neighbourhood NVARCHAR(MAX),	
+	latitude NVARCHAR(MAX),	
+	longitude NVARCHAR(MAX),	
+	room_type NVARCHAR(MAX),	
+	price NVARCHAR(MAX),	
+	minimum_nights NVARCHAR(MAX),	
+	number_of_reviews NVARCHAR(MAX),	
+	last_review NVARCHAR(MAX),
+	reviews_per_month NVARCHAR(MAX),	
+	calculated_host_listings_count NVARCHAR(MAX),	
+	availability_365 NVARCHAR(MAX)
 );
 
--- less attributes that original table with no null values
-CREATE TABLE cleaned_data(
-	id INT,
-	name VARCHAR(50),	
-	host_id INT,	
-	host_name VARCHAR(50),	
-	neighbourhood_group VARCHAR(50),	
-	neighbourhood VARCHAR(50),	
-	room_type VARCHAR(50),	
-	price smallmoney,	
-	number_of_reviews smallint,	
-	last_review datetime,
-	reviews_per_month decimal,	
-	calculated_host_listings_count tinyint,	
-	availability_365 smallint,
-	FOREIGN KEY (id) REFERENCES original_data(id)
-);
 
 
 DROP TABLE original_data;
-
 
 
 -- INSERT STATEMENTS for original data and cleaned data
