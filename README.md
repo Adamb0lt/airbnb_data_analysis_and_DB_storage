@@ -33,7 +33,7 @@ The dataset consists of various attributes related to Airbnb listings in NYC, in
 
 ## Next Steps
 
-1. **Create Streamlit Web Apps:** Develop Streamlit web applications to showcase the findings, insights, and predictive models from the data analysis.
+1. **Create Streamlit Web App:** Develop Streamlit web application to showcase the findings, insights, and predictive models from the data analysis.
 
 ## Conclusion
 The project has successfully completed the data cleaning, exploratory analysis, AB testing, machine learning model development, Tableau visualization, and SQL database creation stages for the NYC Airbnb dataset. The next steps involve creating Streamlit web applications to showcase the findings and predictive models. By leveraging various data analysis techniques and tools, the project aims to deliver actionable insights for Airbnb hosts and stakeholders.
