@@ -29,10 +29,11 @@ The dataset consists of various attributes related to Airbnb listings in NYC, in
 
 5. **Generate Visualizations using Tableau:** Completed the creation of comprehensive data visualizations and dashboards using Tableau to further explore and present insights from the dataset.
 
+6. **SQL Database Creation:** Created an SQL database for the NYC Airbnb dataset with separate schemas for clean and raw data. Designed tables for each schema, inserted data, and optimized performance with an Index. Demonstrated database functionality through SQL queries, showcasing features like joins, CTEs, and Window Functions.
+
 ## Next Steps
 
-1. **SQL Database Creation:** Implement SQL database creation with triggers, transactions, and stored procedures to manage the Airbnb dataset efficiently.
-2. **Create Streamlit Web Apps:** Develop Streamlit web applications to showcase the findings, insights, and predictive models from the data analysis.
+1. **Create Streamlit Web Apps:** Develop Streamlit web applications to showcase the findings, insights, and predictive models from the data analysis.
 
 ## Conclusion
-The project has successfully completed the data cleaning, exploratory analysis, AB testing, machine learning model development, and Tableau visualization stages for the NYC Airbnb dataset. The next steps involve creating an SQL database and showcasing the findings and predictive models through Streamlit web applications. By leveraging various data analysis techniques and tools, the project aims to deliver actionable insights for Airbnb hosts and stakeholders.
+The project has successfully completed the data cleaning, exploratory analysis, AB testing, machine learning model development, Tableau visualization, and SQL database creation stages for the NYC Airbnb dataset. The next steps involve creating Streamlit web applications to showcase the findings and predictive models. By leveraging various data analysis techniques and tools, the project aims to deliver actionable insights for Airbnb hosts and stakeholders.
