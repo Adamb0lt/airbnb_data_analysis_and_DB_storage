@@ -1,3 +1,4 @@
+/******						For using the correct DB at all times					******/
 USE nyc_airbnb;
 
 

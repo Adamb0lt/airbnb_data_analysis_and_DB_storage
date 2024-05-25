@@ -1,4 +1,5 @@
-USE nyc_airbnb_sql.sql;
+/******						For using the correct DB at all times					******/
+USE nyc_airbnb;
 
 /******						INSERTS						******/
 
@@ -15,6 +16,7 @@ If the scripts for either table inserts do not work, do the following as an alte
 9. Once done, click next and on the summary screen ensure details are correct and then click Finish.
 10. Repeat for the other dataset if it needs to be done.
 ***/
+
 
 -- INSERT for original data
 BULK INSERT raw_data.original_data
