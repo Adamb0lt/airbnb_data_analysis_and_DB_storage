@@ -11,7 +11,7 @@ The dataset used in this project is obtained from Kaggle: [NYC Airbnb Open Data]
 2. **Exploratory Data Analysis (EDA):** Conduct EDA to gain insights into the dataset and visualize the relationships between various attributes.
 3. **AB Testing:** Perform an AB test to determine if there is a significant difference in the distribution of prices between listings in Manhattan and Brooklyn.
 4. **Machine Learning:** Create a machine learning model to predict room types for listings.
-5. **SQL Database Creation:** Implement SQL database creation with triggers, transactions, and stored procedures.
+5. **SQL Database Creation:** Implement SQL database with schemas for clean and raw data, tables for data storage, and optimized querying with Index. Showcase database capabilities through various SQL queries.
 6. **Showcasing of Findings:** Use Tableau and Streamlit to visualize and present the insights and findings from the data.
 
 ## Dataset Description
