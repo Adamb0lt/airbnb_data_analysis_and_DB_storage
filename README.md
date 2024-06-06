@@ -31,9 +31,11 @@ The dataset consists of various attributes related to Airbnb listings in NYC, in
 
 6. **SQL Database Creation:** Created an SQL database for the NYC Airbnb dataset with separate schemas for clean and raw data. Designed tables for each schema, inserted data, and optimized performance with an Index. Demonstrated database functionality through SQL queries, showcasing features like joins, CTEs, and Window Functions.
 
-## Next Steps
+7. **Streamlit Web App:** Developed and deployed a Streamlit web application to showcase the findings & insights from the data analysis. The app includes key visualizations and interactive elements to provide an engaging user experience.
 
-1. **Create Streamlit Web App:** Develop Streamlit web application to showcase the findings, insights, and predictive models from the data analysis.
+You can explore the Streamlit web application and summarized findings from the project here: [Streamlit App - NYC Airbnb Data Visualization](https://airbnb-data-viz-adam.streamlit.app/).
 
 ## Conclusion
-The project has successfully completed the data cleaning, exploratory analysis, AB testing, machine learning model development, Tableau visualization, and SQL database creation stages for the NYC Airbnb dataset. The next steps involve creating Streamlit web applications to showcase the findings and predictive models. By leveraging various data analysis techniques and tools, the project aims to deliver actionable insights for Airbnb hosts and stakeholders.
+The project has successfully completed the data cleaning, exploratory analysis, AB testing, machine learning model development, Tableau visualization, SQL database creation, and Streamlit web application stages for the NYC Airbnb dataset. By leveraging various data analysis techniques and tools, the project delivers actionable insights for Airbnb hosts and stakeholders.
+
+Feel free to explore the Streamlit app and reach out if you have any questions or feedback!
