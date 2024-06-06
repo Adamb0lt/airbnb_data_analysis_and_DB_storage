@@ -7,4 +7,5 @@ seaborn
 scipy
 statsmodels
 pickle
-math 
+math
+tableauserverclient
