@@ -60,7 +60,7 @@ if section == 'Introduction':
     We hope these visualizations help you gain valuable insights into the NYC Airbnb dataset and appreciate the complexity and richness of the data.
 
     ### About the Project
-    This project was conducted using Python and various libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scipy, Statsmodels, and Scikit-learn. An SQL database was implemented for effective data management, and Tableau was used for creating visual dashboards. The final step involves creating this Streamlit web app to present our findings and insights in an interactive and user-friendly manner.
+    This project was conducted using Python and various libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scipy, Statsmodels, and Scikit-learn. A SQL database was implemented for effective data management, and Tableau was used for creating visual dashboards. The final step involves creating this Streamlit web app to present our findings and insights in an interactive and user-friendly manner.
 
     The rest of the project, which includes Data Cleaning and Manipulation, Exploratory Data Analysis (EDA), AB Testing, Machine Learning, and SQL Database Creation, can be found on the following GitHub repository: [Airbnb Data Analysis and DB Storage](https://github.com/Adamb0lt/airbnb_data_analysis_and_DB_storage.git). This repository includes:
     - **Data Cleaning and Manipulation:** Clean up the dataset for proper use with analysis and machine learning.
