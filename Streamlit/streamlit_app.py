@@ -54,7 +54,6 @@ if section == 'Introduction':
     ## How to Navigate
     - Use the sidebar to navigate through different sections of the app.
     - Explore the visualizations and interact with the charts to gain a deeper understanding of the data.
-    - Check out the predictive models and their results to see how we leveraged machine learning in this project.
 
     We hope these visualizations help you gain valuable insights into the NYC Airbnb dataset and appreciate the complexity and richness of the data.
 
