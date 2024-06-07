@@ -33,11 +33,11 @@ section = st.sidebar.radio('Sections', [
 ])
 
 if section == 'Introduction':
-    st.title('NYC Airbnb Dataset Analysis and AB Testing Project')
+    st.title('Visualizations from the NYC Airbnb Dataset Analysis and AB Testing Project')
     st.subheader('Visualizations Overview')
 
     st.write("""
-    Welcome to the NYC Airbnb Dataset Analysis and AB Testing Project! This project involves analyzing the 2019 NYC Airbnb dataset to uncover insights and patterns in the data, conduct an AB test, and create predictive models. Visualizations play a crucial role in this project, helping to present findings and insights in an easily understandable manner.
+    Welcome to the NYC Airbnb Dataset Analysis and AB Testing Project! This project involves analyzing the 2019 NYC Airbnb dataset to uncover insights and patterns in the data, conduct an AB test, and create predictive models. This portion of the project focuses on visualizations, presenting summarized findings and insights in an easily understandable manner.
 
     ## Visualization Components
 
@@ -62,10 +62,18 @@ if section == 'Introduction':
     ### About the Project
     This project was conducted using Python and various libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scipy, Statsmodels, and Scikit-learn. An SQL database was implemented for effective data management, and Tableau was used for creating visual dashboards. The final step involves creating this Streamlit web app to present our findings and insights in an interactive and user-friendly manner.
 
+    The rest of the project, which includes Data Cleaning and Manipulation, Exploratory Data Analysis (EDA), AB Testing, Machine Learning, and SQL Database Creation, can be found on the following GitHub repository: [Airbnb Data Analysis and DB Storage](https://github.com/Adamb0lt/airbnb_data_analysis_and_DB_storage.git). This repository includes:
+    - **Data Cleaning and Manipulation:** Clean up the dataset for proper use with analysis and machine learning.
+    - **Exploratory Data Analysis (EDA):** Conduct EDA to gain insights into the dataset and visualize the relationships between various attributes.
+    - **AB Testing:** Perform an AB test to determine if there is a significant difference in the distribution of prices between listings in Manhattan and Brooklyn.
+    - **Machine Learning:** Create a machine learning model to predict room types for listings.
+    - **SQL Database Creation:** Implement SQL database with schemas for clean and raw data, tables for data storage, and optimized querying with Index. Showcase database capabilities through various SQL queries.
+
     Feel free to explore and reach out if you have any questions or feedback!
 
     **Note:** The dataset used in this project is obtained from [Kaggle: NYC Airbnb Open Data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data).
     """)
+
 
 elif section == 'Density of Listings per Borough':
     st.title('Density of Listings per Borough')
