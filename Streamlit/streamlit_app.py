@@ -1,6 +1,24 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
+# CSS for centering and responsiveness
+st.markdown("""
+    <style>
+    .centered {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    @media (max-width: 600px) {
+        .tableauViz {
+            width: 100% !important;
+            height: auto !important;
+        }
+    }
+    </style>
+""", unsafe_allow_html=True)
 
 # Sidebar for navigation
 st.sidebar.title('Navigation')
